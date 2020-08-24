@@ -1,9 +1,9 @@
 ### Build
 
 ```
-  1. git clone https://github.com/sanketh2020/HadoopPlatform.git
-  2. cd HadoopPlatform/docker
-  3. docker build .
+1. git clone https://github.com/sanketh2020/HadoopPlatform.git
+2. cd HadoopPlatform/docker
+3. docker build .
   
 ```
 
